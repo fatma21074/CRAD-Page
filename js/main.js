@@ -164,7 +164,7 @@ var box='';
                         <button class="btn btn-warning" id="editBtn" onclick="editProduct(${i})">edit</button>
                         <button class="btn btn-danger" id="deleteBtn" onclick="deleteProduct(${i})">delete</button>
                       </td>
-                    </tr>}`
+                    </tr>`
             };
     
            }
